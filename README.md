@@ -8,7 +8,7 @@ A customer-centric software engineer with superior communication skills and expe
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [okoasuquo@gmail.com](mailto:okoasuquo@gmail.com)
-*   🚀  I'm currently working on [Lunch-wallet: Automated ticketing system with QR Code.](https://github.com/Kjasuquo/lunch-ticket)
+*   🚀  I'm currently working on [gRPC-Project: Learning gRPC and implementing a Blog with it using MongoDB.](https://github.com/Kjasuquo/grpc-project)
 *   🧠  I'm learning React
 *   🤝  I'm open to collaborating on Open source projects with GO.
 *   ⚡  I love travelling and meeting people.
