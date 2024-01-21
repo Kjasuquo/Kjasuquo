@@ -4,14 +4,14 @@ Hi there👋 My name is Joseph Asuquo
 Software Engineer
 -----------------
 
-A customer-centric software engineer with superior communication skills and expertise in various technical platforms. I understand and meet both client employer needs and develop highly functional, robust, and easy-to-use applications. I excel as a hands-on developer and oversee the work of the software teams.
+A customer-centric software engineer with superior communication skills and expertise in various technical platforms. I understand and meet both client and employer needs and develop highly functional, robust, and easy-to-use applications. I excel as a hands-on developer and oversee the work of the software teams.
 
 *   🌍  I'm based in Lagos, Nigeria
 *   ✉️  You can contact me at [okoasuquo@gmail.com](mailto:okoasuquo@gmail.com)
-*   🚀  I'm currently working on gRPC micro-services
-*   🧠  I'm learning React
+*   🚀  I'm currently working on different platforms including FinTech and Properties platforms
+*   🧠  I am always open to learning new things
 *   🤝  I'm open to collaborating on Open source projects with GO.
-*   ⚡  I love travelling and meeting people.
+*   ⚡  I love traveling and meeting people.
 
 ### Skills
 
