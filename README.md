@@ -10,7 +10,7 @@ A customer-centric software engineer with superior communication skills and expe
 *   ✉️  You can contact me at [okoasuquo@gmail.com](mailto:okoasuquo@gmail.com)
 *   🚀  I'm currently working on different platforms including FinTech and Properties platforms
 *   🧠  I am always open to learning new things
-*   🤝  I'm open to collaborating on Open source projects with GO.
+*   🤝  I'm open to collaborating on Open source projects with GO and Web3.
 *   ⚡  I love traveling and meeting people.
 
 ### Skills
